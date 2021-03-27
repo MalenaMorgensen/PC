@@ -1,0 +1,163 @@
+------------------
+System Information
+------------------
+
+         Operating System: Windows 10 Pro 64-bit
+         Motherboard: MSI Z97 Gaming 3 Intel LGA1150 Z97 ATX Motherboard (MS-7918)
+         Processor: Intel® Core™ i7-4790K CPU @ 4.00GHz (8 CPUs), ~4.4GHz 4C/8T
+
+         Memory: 24576MB RAM 
+         Kingston HyperX FURY 8GB 1866MHz DDR3 CL10 DIMM - Blue (HX318C10F/8) *2
+         Kingston HyperX FURY 8GB 1866MHz DDR3 CL10 DIMM - Red (HX318C10FR/8)
+
+
+------------------------
+Disk & DVD/CD-ROM Drives
+------------------------
+
+         Storage: 7858.7GB Space
+         Crucial MX500 250GB SATA 2.5" 7mm (with 9.5mm adapter) CT250MX500SSD1(Z)
+         Intel® SSD DC S3500 Series (340GB, M.2 80mm SATA 6Gb/s, 20nm, MLC) SSDSCKHB340G4M
+         Samsung SM963 480GB 3D NAND NVMe M.2 PCIe Gen3 x4 110mm (22110) MZ1KW480HMHQ (M.2 PCIe 480GB)
+
+         Intel® Optane™ Memory M10 Series 16GB, M.2 80mm PCIe 3.0, 20nm, 3D XPoint™
+
+         Western Digital Caviar Green 2 TB, WD20EARX (00PASB0)
+         Western Digital Caviar Blue 1 TB, WD10EZEX (00RKKA0)
+         Toshiba MD04ACA400 4TB (B00APWA9FY)
+
+---------------
+Display Devices
+---------------
+
+         Card name: Inno3D Geforce GTX 970 iChill Herculez X4 Air Boss Ultra, 4GB GDDR5
+         Display Memory: 16274 MB
+         Dedicated Memory: 4043 MB
+         Shared Memory: 12230 MB
+
+         Card name: Intel® HD Graphics 4600
+         Manufacturer: Intel Corporation
+         Chip type: Intel® HD Graphics Family
+         Display Memory: 2160 MB
+         Dedicated Memory: 112 MB
+         Shared Memory: 2048 MB
+
+
+---------------
+Network Devices
+---------------
+
+         Router
+         Operating System: OpenWrt R20.10.20 GDQ v11.1[2020] Compiled by eSir / LuCI Master (git-20.256.12360-1a54222) Linux Kernel 4.19.138
+         Motherboard: PAIQ EC3-BT19D4L
+         Processor: Intel® Celeron® CPU J1900 @ 2.00GHz (4 CPUs), ~2.42GHz
+         Memory: 4096MB RAM 
+         Storage: 32GB SSD
+
+         Switch: NETGEAR 8-Port Gigabit Ethernet Unmanaged Switch (GS308)
+
+         Cable: AMP UTP Cable,Cat6,4 Prs,24AWG,Sol,XF,CM,Blue (1427071-6)
+
+         Access Point
+         Operating System: Padavan firmware
+         Xiaomi Mi Wi-Fi Mini Wireless Router Mainstream Dual AC Router 100MBPS 2.4Ghz/5Ghz 
+
+         Operating System: Padavan firmware
+         Phicomm K2 Wireless 1200Mbps High Speed Dual Band Router, 2.4G / 5G
+
+
+
+Cooler: Corsair Hydro Series™ H60 High Performance Liquid CPU Cooler
+Power Supply: Corsair RMx Series™ RM650x 80 PLUS Gold Fully Modular ATX Power Supply
+
+Keyboard: SteelSeries 6Gv2 Red Cherry
+Mouse: SteelSeries Sensei Laser Gaming Mouse [RAW] Frost Blue Edition 2880 cpi (Omron Micro Switch D2F-F-3-7 [b] Modded [/b]) 
+Mouse Pad: SteelSeries Qck Medium
+Controller: Microsoft Xbox 360 Wired Controller
+
+Speaker: HiVi swans M50W Powered 2.1 Bookshelf Speakers
+
+Microphone: AKG P120 Studio Condenser Recording Microphone (Cardioid XLR)
+
+Case: NZXT H440 White Silence Optimized Premium ATX Mid-Tower
+
+Table: IKEA LINNMON  Table top (white, white stained oak effect, 150x75 cm)
+           IKEA OLOV  Leg, adjustable (white)
+Chair: IKEA LÅNGFJÄLL  Office chair (Gunnared beige, white)
+
+
+
+Secondary
+
+                 Intel® Core™ i3-9100F Processor @ 3.60GHz (4 CPUs), ~4.2GHz 4C/4T
+                 DEEPCOOL GAMMAXX400 V2 Blue CPU Air Cooler
+                 ZOTAC GeForce GTX 960 4GB (GTX960-4GD5 DESTROYER HB) Graphics Card
+                 Micro-Star International Co., Ltd. H310M PRO-VD (MS-7B33)
+                 Kingston HyperX Predator Black 16GB 2666MHz (HX426C13PB3/16) 16GB RAM
+                 Samsung SM843Tn Data Center Series MZ-7WD240N/003 SATA 2.5' 240GB MLC SSD
+                 Great Wall Power Double Card King BTX-450SE Desktop Computer Power Rating 350W
+                 QDIY PC-JMK6 MicroATX Aluminum Alloy Horizontal Full Open Computer Case Chassis
+
+
+
+Tertiary
+
+                 Intel® Xeon® Processor E5450 @ 3.00 GHz (4 CPUs), ~3.8GHz (OC) 4C/4T
+                 AVC A7224DC 775 Motherboard Cooler 12V 0.7A 8.4W 4500PRM 38DB 65CFM.Min
+                 AMD Radeon™ HD 7750 1GB GDDR5 128BIT Net Coffee Edition
+                 Asus P5Q SE Plus (P45) 
+                 Kingston KVR800D2N6/2G 2GB DDR2 SDRAM 800MHz*4 8GB RAM
+                 SanDisk Z400s SSD 128G
+                 WD Blue HDD 2T RAID0 (500G*4)
+                 Antec Basiq VP350P 350W
+                 QDIY Professional Modder Acrylic ATX Motherboard Tray YJ-ZJM08
+
+SAS
+                 Dell PERC 6/i SAS - Storage controller (RAID) - 2 Channel - SAS - 300 MBps - RAID 0, 1, 5, 6, 10, 50, 60 - PCIe x8
+                 Seagate Constellation ES ST32000444SS 2T SAS Cache 16MB HDD *6 6T (2T*6/2) RAID10
+                 Seagate Constellation ES.2 ST32000645SS 2T  SAS Cache 64MB HDD *2 2T(2T*2/2) RAID1
+
+
+Quaternary
+
+                OS: elementary OS 5.1.7 Hera x86_64
+                Intel® Xeon® Processor L5420 @ 2.50 GHz (4 CPUs) 4C/4T
+                Gigabyte GA-G41MT-S2P (rev. 1.3) - Intel® G41 + ICH7 Chipset - motherboard - micro ATX - LGA775 Socket
+                Kingston KVR1333D3N9/2G 2GB DDR3 SDRAM 1333MHz 2GB RAM
+                Hynix HMT125U6TFR8C-H9 2GB DDR3 SDRAM 1333MHz 2GB RAM
+                Seagate Momentus 5400 ST9640320AS 640GB 5400 RPM 8MB Cache SATA 3.0Gb/s 2.5" Internal Notebook Hard Drive Bare Drive
+
+
+
+
+Quinary
+
+                 Intel® Core™2 Duo Processor E8500 @ 3.16 GHz (2 CPUs) 2C/2T
+                 Dell C457F Vostro 230 Slimline Internal Cooling Case Fan C457F-A00 DS07015R12E
+                 Dell Vostro 230 CPU Heatsink and Fan C40V2 0c40v2
+                 DELL Vostro 230 230S Desktop Motherboard MIG41R 09152-1M 48.3BI01.01M Mainboard CN-07N90W 7N90W
+                 Elpida EBJ10UE8BDS0-AE-F 1GB DDR3 SDRAM 1066MHz 1GB RAM
+                 Ramaxel RMR1870EF48E8W-1333 2GB DDR3 SDRAM 1333MHz 2GB RAM
+                 Samsung PM871 SSD 128G
+                 Toshiba MK3252GSX HDD 320G
+                 WB Blue HDD 640G RAID0 (320G*2)
+
+
+
+Senary
+
+                 OS: Debian GNU/Linux 10.6 "Buster"
+                 Intel Atom® Processor N270 @ 1.60 GHz (2 CPUs) 1C/2T
+                 TE1090E Calistoga ICH7M Chipset
+                 Kingston KVR800D2N6/2G 2GB RAM
+                 WB Blue HDD 320G
+
+
+   [spoiler] MSI GeForce GTX 960 2GD5T OCV2 [/spoiler]
+
+   [spoiler] WD WD800JB-00JJC0 80GB 7.2K Caviar SE 3.5" PATA HDD | DCM DSBACTJAH Malaysia  
+
+   [spoiler] Corsair Professional Series HX650 ATX/EPS Modular Power Supply [/spoiler]
+
+https://en.colorful.cn/product_show.aspx?mid=84&id=851
+https://www.colorfly.eu/products/graphic-cards-for-industrial-use/mining-solutions/c-j1900a-btc-plus-v20/
