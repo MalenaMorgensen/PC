@@ -1,0 +1,27 @@
+BIOS 1xx H97 GAMING 3
+BIOS 2xx Z97 GAMING 3
+BIOS 3xx B85 GAMING 3
+-------------------------------------------------
+
+Z97 GAMING 3 (MS-7918) V2.A BIOS Release
+-------------------------------------------------
+
+1. This is AMI BIOS release
+
+2. This BIOS fixes the following problem of the previous version:
+-  Improved memory compatibility.
+-  Fix that system is not able to boot from legacy DVD ROM when RAID is activated.
+-  Updated CPU microcode.
+
+3. 2016/2/18
+
+[Below information is Chinese language]
+
+A. AMI BIOS 正式發行
+
+B. 此版本修正下列問題:
+-  改善與部分記憶體間的相容性.
+-  修正當RAID 功能打開時,無法從DVD ROM開機
+-  更新CPU Microcode.
+
+C. 更新日期: 公元2016年2月18號

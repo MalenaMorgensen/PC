@@ -1,0 +1,17 @@
+如果刷新出现错误。请注意。
+
+1例:关闭BIOS写保护：开机在机器自检过程中按DEL键进入BIOS。进入Advanced,将Flash Write Protection改为Disable.按F10键 保存退出。
+
+2例:开机在机器自检过程中不断点击DEL键进BIOS，把"Integrated Peripherals"的"Onboard Device"将"System BIOS Protect"默认设置为"Disabled",保存BIOS退出
+
+3例:开机在机器自检过程中按DEL键进入BIOS。进入Colorful Magic Control ,将Flash Write Protection改为Disable后按F10保存退出BIOS即可。
+
+4例:开机在机器自检过程中按DEL键进入BIOS。进入Security,将Flash Write Protection改为Disable后按F10保存退出BIOS即可。
+
+5例:开机在机器自检过程中按DEL键进入BIOS。进入BIOS Security features----Bios write prltection(改成DISABLE状态),按F10保存退出BIOS即可。
+
+6例:关闭BIOS写保护：开机在机器自检过程中按DEL键进入BIOS。进入Advanced,将BIOS Security中的Flash Write Protection改为Disable.按F10键 保存退出。
+
+7例:开机在机器自检过程中按DEL键进入BIOS。进入topstar ,将Flash Write Protection改为Disable后按F10保存退出BIOS即可。
+
+8例：开机在机器自检过程中不断点击DEL键进BIOS，把"chipset"的"South bridge"将" BIOS write Protect"默认设置为"Disabled",按F10 保存BIOS退出

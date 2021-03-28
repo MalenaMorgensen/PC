@@ -1,0 +1,4 @@
+7彩虹的双内存主板。需要在BIOS里改防写 用第三种程序来刷
+
+关闭BIOS写保护：开机在机器自检过程中按DEL键进入BIOS。进入Colorful Magic Control 或Advanced,将Flash Write Protection改为Disable后按F10保存退出BIOS即可。
+ 

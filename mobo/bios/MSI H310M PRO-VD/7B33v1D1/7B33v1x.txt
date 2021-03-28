@@ -1,0 +1,19 @@
+-----------------------------------------------------------------------------------------------------------------------
+H310M PRO-VH / H310M PRO-VD / H310M PRO-D (MS-7B33) V1.D1 BIOS Release
+-----------------------------------------------------------------------------------------------------------------------
+
+1. This is AMI BIOS release
+
+2. This BIOS fixes the following problem of the previous version:
+-  Support Resizable BAR (Re-Size BAR) function to enhance GPU performance including the Nvidia GeForce RTX 3000 series and others.
+
+3. 2021/02/17
+
+[Below information is Chinese language]
+
+A. AMI BIOS 正式發行
+
+B. 此版本修正下列問題:
+-  支援 Resizable BAR (Re-Size BAR) 功能, 強化包含 Nvidia Geforce RTX 3000系列及其他顯示卡效能
+
+C. 更新日期: 公元2021年02月17號

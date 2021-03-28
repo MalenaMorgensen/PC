@@ -1,0 +1,16 @@
+华硕P5Q SE PLUS，BIOS版本2204
+
+
+加入联想SLP和SLIC2.2
+加入各种771 Xeon微代码
+
+
+
+刷新方法一：
+进入纯DOS运行up
+
+刷新方法二：
+用华硕工具ASUS Update，步骤看Windows刷新方法
+
+刷新方法三：
+用华硕主板自带的EZ Flash 2(如果有的话)

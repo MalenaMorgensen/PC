@@ -1,0 +1,21 @@
+-----------------------------------------------------------------------------------------------------------------------
+H310M PRO-VH / H310M PRO-VD / H310M PRO-D (MS-7B33) V1.C BIOS Release
+-----------------------------------------------------------------------------------------------------------------------
+
+1. This is AMI BIOS release
+
+2. This BIOS fixes the following problem of the previous version:
+-  Update Intel Micro code for security vulnerabilities 
+-  Security update
+
+3. 2020/10/20
+
+[Below information is Chinese language]
+
+A. AMI BIOS 正式發行
+
+B. 此版本修正下列問題:
+-  更新 Intel Micro code 修補安全性漏洞
+-  其他安全性更新
+
+C. 更新日期: 公元2020年10月20號
