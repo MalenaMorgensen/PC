@@ -1,0 +1,9 @@
+2019年11月21日编译基于lean大佬源码编译的固件X86的32位固件
+固件下载地址：https://drive.google.com/drive/folder...
+包含：$$5魔改版-OpenClash-Frp内网穿透-Aria2-miniDLNA家庭服务器-Turbo ACC网络加速支持（FLOW 加速状态-BBR 加速-FULLCONE NAT加速-DNS 加速）....其它多余没用的东西懒得搞了！清爽---固件包含了几个主题自己玩吧。
+固件密码：password
+固件地址：192.168.1.1
+喜欢我的固件记得点赞加订阅哦-
+我的电报群：https://t.me/itlj8
+你要的订阅地址：http://www.youtube.com/c/ITgarbageman
+神奇代码：http://bit.ly/34aQ8JM

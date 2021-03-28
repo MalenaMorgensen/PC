@@ -1,0 +1,11 @@
+openwrt-gdq-v11-1-[2020]-x86-64-generic-squashfs-combined.img.gz
+===============================================
+MD5: 399CEAA71A96C7E39973748744220152
+SHA1: D3BC65B9E4EBD50578A17E9E9F714B6CFDFB1DB9
+CRC32: 6764B890
+
+openwrt-gdq-v11-1-[2020]-x86-64-generic-squashfs-uefi.img.gz
+===============================================
+MD5: C2C0A6D431EF74FCC9E9F6C552C587FE
+SHA1: E04220D16F1CE0D231A39E9CCAA38E106247797F
+CRC32: 87058C7B

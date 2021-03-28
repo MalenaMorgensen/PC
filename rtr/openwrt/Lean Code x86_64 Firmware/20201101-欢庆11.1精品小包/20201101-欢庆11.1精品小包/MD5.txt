@@ -1,0 +1,12 @@
+openwrt-spp-v11-1[2020]-x86-64-generic-squashfs-combined.img.gz
+============================================
+MD5: C962466A8AC055CAA8470E64767B1679
+SHA1: 31AC05BCAE8C57E1BE98EB9896C7DE258E934B51
+CRC32: 00DE4199
+
+openwrt-spp-v11-1[2020]-x86-64-generic-squashfs-uefi.img.gz
+=========================================
+MD5: 75EED4DD0CCF58AEBD064BB10EAB69BF
+SHA1: 8F71AC6F1A214BB567C4EE3A05CDEE7859349B8B
+CRC32: DCFE287C
+
