@@ -15,15 +15,13 @@ System Information
 Disk & DVD/CD-ROM Drives
 ------------------------
 
-         Storage: 7858.7GB Space
-         Crucial MX500 250GB SATA 2.5" 7mm (with 9.5mm adapter) CT250MX500SSD1(Z)
-         Intel® SSD DC S3500 Series (340GB, M.2 80mm SATA 6Gb/s, 20nm, MLC) SSDSCKHB340G4M
+         Storage: 6515.3GB Space
          Samsung SM963 480GB 3D NAND NVMe M.2 PCIe Gen3 x4 110mm (22110) MZ1KW480HMHQ (M.2 PCIe 480GB)
+         Crucial MX500 250GB SATA 2.5" 7mm (with 9.5mm adapter) CT250MX500SSD1(Z) & Samsung Data Center Series MZ-7WD256T/003 SATA 2.5' 256GB MLC SSD 500GB (250GB*2)  Raid0
 
          Intel® Optane™ Memory M10 Series 16GB, M.2 80mm PCIe 3.0, 20nm, 3D XPoint™
 
          Western Digital Caviar Green 2 TB, WD20EARX (00PASB0)
-         Western Digital Caviar Blue 1 TB, WD10EZEX (00RKKA0)
          Toshiba MD04ACA400 4TB (B00APWA9FY)
 
 ---------------
@@ -87,6 +85,7 @@ Chair: IKEA LÅNGFJÄLL  Office chair (Gunnared beige, white)
 
 
 
+[spoiler] 
 Secondary
 
                  Intel® Core™ i3-9100F Processor @ 3.60GHz (4 CPUs), ~4.2GHz 4C/4T
@@ -97,6 +96,7 @@ Secondary
                  Samsung SM843Tn Data Center Series MZ-7WD240N/003 SATA 2.5' 240GB MLC SSD
                  Great Wall Power Double Card King BTX-450SE Desktop Computer Power Rating 350W
                  QDIY PC-JMK6 MicroATX Aluminum Alloy Horizontal Full Open Computer Case Chassis
+ [/spoiler]
 
 
 
@@ -112,10 +112,6 @@ Tertiary
                  Antec Basiq VP350P 350W
                  QDIY Professional Modder Acrylic ATX Motherboard Tray YJ-ZJM08
 
-SAS
-                 Dell PERC 6/i SAS - Storage controller (RAID) - 2 Channel - SAS - 300 MBps - RAID 0, 1, 5, 6, 10, 50, 60 - PCIe x8
-                 Seagate Constellation ES ST32000444SS 2T SAS Cache 16MB HDD *6 6T (2T*6/2) RAID10
-                 Seagate Constellation ES.2 ST32000645SS 2T  SAS Cache 64MB HDD *2 2T(2T*2/2) RAID1
 
 
 Quaternary
@@ -127,6 +123,11 @@ Quaternary
                 Hynix HMT125U6TFR8C-H9 2GB DDR3 SDRAM 1333MHz 2GB RAM
                 Seagate Momentus 5400 ST9640320AS 640GB 5400 RPM 8MB Cache SATA 3.0Gb/s 2.5" Internal Notebook Hard Drive Bare Drive
 
+SAS
+
+                 Dell PERC 6/i SAS - Storage controller (RAID) - 2 Channel - SAS - 300 MBps - RAID 0, 1, 5, 6, 10, 50, 60 - PCIe x8
+
+                 Seagate Constellation ES.2 ST32000645SS 2T  SAS 64MB Cache HDD *2 & Seagate Constellation ES ST32000444SS 2T SAS 16MB Cache HDD *4 & Seagate Constellation ES ST2000NM0001 2T SAS 64MB Cache HDD *2 8T (2T*8/2) RAID10
 
 
 
@@ -139,7 +140,6 @@ Quinary
                  Elpida EBJ10UE8BDS0-AE-F 1GB DDR3 SDRAM 1066MHz 1GB RAM
                  Ramaxel RMR1870EF48E8W-1333 2GB DDR3 SDRAM 1333MHz 2GB RAM
                  Samsung PM871 SSD 128G
-                 Toshiba MK3252GSX HDD 320G
                  WB Blue HDD 640G RAID0 (320G*2)
 
 
@@ -153,9 +153,13 @@ Senary
                  WB Blue HDD 320G
 
 
+   [spoiler] Intel® SSD DC S3500 Series (340GB, M.2 80mm SATA 6Gb/s, 20nm, MLC) SSDSCKHB340G4M [/spoiler]
+
+   [spoiler] Western Digital Caviar Blue 1 TB, WD10EZEX (00RKKA0) [/spoiler]
+
    [spoiler] MSI GeForce GTX 960 2GD5T OCV2 [/spoiler]
 
-   [spoiler] WD WD800JB-00JJC0 80GB 7.2K Caviar SE 3.5" PATA HDD | DCM DSBACTJAH Malaysia  
+   [spoiler] WD WD800JB-00JJC0 80GB 7.2K Caviar SE 3.5" PATA HDD | DCM DSBACTJAH Malaysia [/spoiler]
 
    [spoiler] Corsair Professional Series HX650 ATX/EPS Modular Power Supply [/spoiler]
 
