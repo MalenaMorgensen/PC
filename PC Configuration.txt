@@ -102,8 +102,8 @@ Secondary
 
 Tertiary
 
-                 Intel® Xeon® Processor E5450 @ 3.00 GHz (4 CPUs), ~3.8GHz (OC) 4C/4T
-                 AVC A7224DC 775 Motherboard Cooler 12V 0.7A 8.4W 4500PRM 38DB 65CFM.Min
+                 Intel® Xeon® Processor E5450 @ 3.00 GHz (4 CPUs), ~4.1GHz (OC) 4C/4T
+                 FrostWind Press Down Type 4 Heatpipes CPU Cooler
                  AMD Radeon™ HD 7750 1GB GDDR5 128BIT Net Coffee Edition
                  Asus P5Q SE Plus (P45) 
                  Kingston KVR800D2N6/2G 2GB DDR2 SDRAM 800MHz*4 8GB RAM
@@ -162,6 +162,8 @@ Senary
    [spoiler] WD WD800JB-00JJC0 80GB 7.2K Caviar SE 3.5" PATA HDD | DCM DSBACTJAH Malaysia [/spoiler]
 
    [spoiler] Corsair Professional Series HX650 ATX/EPS Modular Power Supply [/spoiler]
+
+   [spoiler] AVC A7224DC 775 Motherboard Cooler 12V 0.7A 8.4W 4500PRM 38DB 65CFM.Min [/spoiler]
 
 https://en.colorful.cn/product_show.aspx?mid=84&id=851
 https://www.colorfly.eu/products/graphic-cards-for-industrial-use/mining-solutions/c-j1900a-btc-plus-v20/
