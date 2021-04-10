@@ -4,7 +4,7 @@ System Information
 
          Operating System: Windows 10 Pro 64-bit
          Motherboard: MSI Z97 Gaming 3 Intel LGA1150 Z97 ATX Motherboard (MS-7918)
-         Processor: Intel® Core™ i7-4790K CPU @ 4.00GHz (8 CPUs), ~4.4GHz 4C/8T
+         Processor: Intel® Core™ i7-4790K CPU @ 4.00GHz (8 CPUs), ~4.6GHz 4C/8T
 
          Memory: 24576MB RAM 
          Kingston HyperX FURY 8GB 1866MHz DDR3 CL10 DIMM - Blue (HX318C10F/8) *2
@@ -102,7 +102,7 @@ Secondary
 
 Tertiary
 
-                 Intel® Xeon® Processor E5450 @ 3.00 GHz (4 CPUs), ~4.1GHz (OC) 4C/4T
+                 Intel® Xeon® Processor E5450 @ 3.00 GHz (4 CPUs), ~4.4GHz (OC) 4C/4T
                  FrostWind Press Down Type 4 Heatpipes CPU Cooler
                  AMD Radeon™ HD 7750 1GB GDDR5 128BIT Net Coffee Edition
                  Asus P5Q SE Plus (P45) 
