@@ -65,7 +65,7 @@ Network Devices
 
 
 
-Cooler: Corsair Hydro Series™ H60 High Performance Liquid CPU Cooler
+Cooler: Corsair Hydro Series™ H55 Quiet CPU Cooler
 Power Supply: Corsair RMx Series™ RM650x 80 PLUS Gold Fully Modular ATX Power Supply
 
 Keyboard: SteelSeries 6Gv2 Red Cherry
@@ -103,7 +103,7 @@ Secondary
 Tertiary
 
                  Intel® Xeon® Processor E5450 @ 3.00 GHz (4 CPUs), ~4.4GHz (OC) 4C/4T
-                 FrostWind 4 Heatpipes Low Profile CPU Cooler
+                 FrostWind Press Down Type 4 Heatpipes CPU Cooler
                  AMD Radeon™ HD 7750 1GB GDDR5 128BIT Net Coffee Edition
                  Asus P5Q SE Plus (P45) 
                  Kingston KVR800D2N6/2G 2GB DDR2 SDRAM 800MHz*4 8GB RAM
