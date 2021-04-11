@@ -102,7 +102,7 @@ Secondary
 
 Tertiary
 
-                 Intel® Xeon® Processor E5450 @ 3.00 GHz (4 CPUs), ~4.4GHz (OC) 4C/4T
+                 Intel® Xeon® Processor E5450 @ 3.00 GHz (4 CPUs), ~4.3GHz (OC) 4C/4T
                  FrostWind Press Down Type 4 Heatpipes CPU Cooler
                  AMD Radeon™ HD 7750 1GB GDDR5 128BIT Net Coffee Edition
                  Asus P5Q SE Plus (P45) 
