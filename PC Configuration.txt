@@ -17,7 +17,7 @@ Disk & DVD/CD-ROM Drives
 
          Storage: 6515.3GB Space
          Samsung SM963 480GB 3D NAND NVMe M.2 PCIe Gen3 x4 110mm (22110) MZ1KW480HMHQ (M.2 PCIe 480GB)
-         Crucial MX500 250GB SATA 2.5" 7mm (with 9.5mm adapter) CT250MX500SSD1(Z) & Samsung Data Center Series MZ-7WD256T/003 SATA 2.5' 256GB MLC SSD 500GB (250GB*2)  Raid0
+         Crucial MX500 250GB SATA 2.5" 7mm (with 9.5mm adapter) CT250MX500SSD1(Z) & Samsung Data Center Series MZ-7WD256T/003 SATA 2.5' 250GB MLC SSD 500GB (250GB*2)  Raid0
 
          Intel® Optane™ Memory M10 Series 16GB, M.2 80mm PCIe 3.0, 20nm, 3D XPoint™
 
