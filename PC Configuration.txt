@@ -122,6 +122,8 @@ Quaternary
                 Kingston KVR1333D3N9/2G 2GB DDR3 SDRAM 1333MHz 2GB RAM
                 Hynix HMT125U6TFR8C-H9 2GB DDR3 SDRAM 1333MHz 2GB RAM
                 Seagate Momentus 5400 ST9640320AS 640GB 5400 RPM 8MB Cache SATA 3.0Gb/s 2.5" Internal Notebook Hard Drive Bare Drive
+                Seventeam ST-450PAP 450W Power Supply
+
 
 SAS
 
