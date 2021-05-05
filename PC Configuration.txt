@@ -69,7 +69,15 @@ Cooler: Corsair Hydro Series™ H55 Quiet CPU Cooler
 Power Supply: Corsair RMx Series™ RM650x 80 PLUS Gold Fully Modular ATX Power Supply
 
 Keyboard: SteelSeries 6Gv2 Red Cherry
-Mouse: SteelSeries Sensei Laser Gaming Mouse [RAW] Frost Blue Edition 2880 cpi (Omron Micro Switch D2F-F-3-7 [b] Modded [/b]) 
+
+Mouse: SteelSeries Sensei Laser Gaming Mouse [RAW] Frost Blue Edition 2880 cpi (Omron Micro Switch D2F-F-3-7 [b] Modded [/b])
+Logitech G603 Lightspeed Wireless Gaming Mouse
+Logitech G602 Wireless Gaming Mouse
+Logitech G402 Hyperion Fury FPS Gaming Mouse
+Logitech G102 LIGHTSYNC RGB 6 Button Gaming Mouse
+Logitech M220 Silent Wireless Mouse
+Logitech M170 Wireless Mouse
+
 Mouse Pad: SteelSeries Qck Medium
 Controller: Microsoft Xbox 360 Wired Controller
 
@@ -108,6 +116,7 @@ Tertiary
                  Asus P5Q SE Plus (P45) 
                  Kingston KVR800D2N6/2G 2GB DDR2 SDRAM 800MHz*4 8GB RAM
                  SanDisk Z400s SSD 128G
+                 Intel® Optane™ Memory M10 Series 16GB, M.2 80mm PCIe 3.0, 20nm, 3D XPoint™
                  WD Blue HDD 2T RAID0 (500G*4)
                  Antec Basiq VP350P 350W
                  QDIY Professional Modder Acrylic ATX Motherboard Tray YJ-ZJM08
