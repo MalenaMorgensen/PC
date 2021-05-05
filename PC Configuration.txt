@@ -70,7 +70,7 @@ Power Supply: Corsair RMx Series™ RM650x 80 PLUS Gold Fully Modular ATX Power 
 
 Keyboard: SteelSeries 6Gv2 Red Cherry
 
-Mouse: SteelSeries Sensei Laser Gaming Mouse [RAW] Frost Blue Edition 2880 cpi (Omron Micro Switch D2F-F-3-7 [b] Modded [/b])
+Mouse: SteelSeries Sensei Laser Gaming Mouse [RAW] Frost Blue Edition 2880 cpi (Omron Micro Switch D2F-F-3-7 TTC Mouse Wheel Encoder Red Core 9mm [b] Modded [/b])
 Logitech G603 Lightspeed Wireless Gaming Mouse
 Logitech G602 Wireless Gaming Mouse
 Logitech G402 Hyperion Fury FPS Gaming Mouse
@@ -169,6 +169,8 @@ Senary
    [spoiler] Western Digital Caviar Blue 1 TB, WD10EZEX (00RKKA0) [/spoiler]
 
    [spoiler] MSI GeForce GTX 960 2GD5T OCV2 [/spoiler]
+
+   [spoiler] ZOTAC GeForce GTX 960 4GB (GTX960-4GD5 DESTROYER HB) Graphics Card [/spoiler]
 
    [spoiler] WD WD800JB-00JJC0 80GB 7.2K Caviar SE 3.5" PATA HDD | DCM DSBACTJAH Malaysia [/spoiler]
 
