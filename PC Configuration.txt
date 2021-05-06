@@ -70,13 +70,13 @@ Power Supply: Corsair RMx Series™ RM650x 80 PLUS Gold Fully Modular ATX Power 
 
 Keyboard: SteelSeries 6Gv2 Red Cherry
 
-Mouse: SteelSeries Sensei Laser Gaming Mouse [RAW] Frost Blue Edition 2880 cpi (Omron Micro Switch D2F-F-3-7 TTC Mouse Wheel Encoder Red Core 9mm [b] Modded [/b])
-Logitech G603 Lightspeed Wireless Gaming Mouse
-Logitech G602 Wireless Gaming Mouse
-Logitech G402 Hyperion Fury FPS Gaming Mouse
-Logitech G102 LIGHTSYNC RGB 6 Button Gaming Mouse
-Logitech M220 Silent Wireless Mouse
-Logitech M170 Wireless Mouse
+Mouse: SteelSeries Sensei Laser Gaming Mouse [RAW] Frost Blue Edition 2880 cpi (Omron Micro Switch D2F-F-3-7 TTC Mouse Wheel Encoder Red Core 9mm [b] Modded [/b]) 90 grams
+Logitech G603 Lightspeed Wireless Gaming Mouse 112.3 grams
+Logitech G602 Wireless Gaming Mouse 130 grams
+Logitech G402 Hyperion Fury FPS Gaming Mouse 144 grams
+Logitech G102 LIGHTSYNC RGB 6 Button Gaming Mouse 85 grams
+Logitech M220 Silent Wireless Mouse 75.2 grams
+Logitech M170 Wireless Mouse 70.5 grams
 
 Mouse Pad: SteelSeries Qck Medium
 Controller: Microsoft Xbox 360 Wired Controller
